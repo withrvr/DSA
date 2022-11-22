@@ -1,9 +1,9 @@
 ## run
 
-- open cmd to that directory location
+- open terminal to that file location
 - g++ [file-name].cpp && ./a.exe
 
-## example
+## Example
 
-- cd ./Array
-- g++ 1a.cpp && ./a.exe
+- cd ./Array/1/
+- g++ ./a.cpp && ./a.exe
