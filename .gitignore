@@ -1,0 +1,13 @@
+# .exe files ... compiled files 
+*.exe
+
+# all c files if any
+*.c
+
+# cpp files for testing n running
+main*.cpp
+test*.cpp
+
+# md files
+notes.md
+template_discussions.md
