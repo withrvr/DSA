@@ -18,10 +18,12 @@ void printArray()
 
 // - - - main logic - - -
 // Iterative
-void reverseArray()
+void minmax()
 {
-	int min = int(INFINITY), max = int(-INFINITY);
-	for (short i = 0; i < n; i++)
+	// int min = int(INFINITY), max = int(-INFINITY);
+	int min = arr[0], max = arr[0];
+
+	for (int i = 1; i < n; i++)
 	{
 		if (arr[i] < min)
 			min = arr[i];
@@ -39,7 +41,7 @@ void reverseArray()
 int main()
 {
 	printArray();
-	reverseArray();
+	minmax();
 	printArray();
 
 	return 0;

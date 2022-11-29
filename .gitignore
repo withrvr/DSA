@@ -1,13 +1,47 @@
-# .exe files ... compiled files 
-*.exe
+# vscode
+.vscode
 
 # all c files if any
 *.c
 
-# cpp files for testing n running
-main*.cpp
-test*.cpp
+# cpp files/folder for testing n running
+main*
+test*
+potd*
 
 # md files
 notes.md
 template_discussions.md
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
