@@ -1,4 +1,4 @@
-# Learn
+# Reverse the array
 
 - [a.cpp](./a.cpp)
   -  swapping
@@ -6,7 +6,7 @@
 - [b.cpp](./b.cpp)
   - Start / End method
   - specially in recursion
-- [a.cpp](./a.cpp)
+- [c.cpp](./c.cpp)
   - adding one by one new from back
   - new array
 

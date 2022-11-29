@@ -1,7 +1,7 @@
-## run
+## Run
 
-- open terminal to that file location
-- g++ [file-name].cpp && ./a.exe
+- Open terminal to that file location
+- g++ ./[file-name].cpp && ./a.exe
 
 ## Example
 

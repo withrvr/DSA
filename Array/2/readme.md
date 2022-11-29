@@ -1,4 +1,4 @@
-# Learn
+# Find the maximum and minimum element in an array
 
 - [a.cpp](./a.cpp)
   - INFINITY var
