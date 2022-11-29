@@ -1,7 +1,14 @@
+![Love-Babbar-Final-450](https://socialify.git.ci/withrvr/Love-Babbar-Final-450/image?description=1&descriptionEditable=450%20DSA%20Questions%20~%20(%20Currently%20Solving%20)&font=Inter&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Light)
+
 # Info
 
-- 450 Questions for DSA (Data Structure and Algorithms) by Love Babber
-- and my solution for them in folder format in this repo
+- 450 Questions
+- for DSA (Data Structure and Algorithms)
+- by Love Babber
+- 
+- Which i am Currently Solving
+- in folder format in this repo
+- Started :- 22 Nov 2022
 
 # Links
 
