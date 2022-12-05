@@ -26,3 +26,10 @@
 - [b.cpp](./b.cpp)
   - [Practice Problem](https://practice.geeksforgeeks.org/problems/max-min/1)
 - [GFG Page](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
+
+- Leetcode
+  - [2293. Min Max Game](https://leetcode.com/problems/min-max-game/description/)
+    - [Solution](https://leetcode.com/problems/min-max-game/solutions/2876854/)
+  - [2091. Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/description/)
+    - [other/better/best solution](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/solutions/2880132/)
+    - [First solution which came in my mind using ... min / max position from left right both ... sign -ve/+ve to know both right/both left or not](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/submissions/854944924/)
