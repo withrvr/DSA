@@ -1,4 +1,4 @@
-# Find the maximum and minimum element in an array
+# 📄: (2-Array) -> Find the maximum and minimum element in an array
 
 - [a.cpp](./a.cpp)
   - INFINITY var
@@ -21,7 +21,7 @@
       return the pair of max and min
   ```
 
-# Links
+# 🔗: Links
 
 - [b.cpp](./b.cpp)
   - [Practice Problem](https://practice.geeksforgeeks.org/problems/max-min/1)

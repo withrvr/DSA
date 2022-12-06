@@ -1,4 +1,4 @@
-# Reverse the array
+# 📄: (1-Array) -> Reverse the array
 
 - [a.cpp](./a.cpp)
   -  swapping
@@ -10,7 +10,7 @@
   - adding one by one new from back
   - new array
 
-# LINKS
+# 🔗: LINKS
 
 - [d.cpp](./d.cpp)
   - [Practice Problem](https://practice.geeksforgeeks.org/problems/reverse-a-string/1)
