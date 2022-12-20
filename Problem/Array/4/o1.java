@@ -2,7 +2,7 @@
 // using left right / tracking / swap (misses make it 0 and 1)
 class Solution {
 	void segregate0and1(int[] arr, int n) {
-		int left = 0, right = n - 1, temp;
+		int left = 0, right = n - 1;
 
 		while (left < right) {
 			// System.out.println(left + "-" + right + " :: " + Arrays.toString(arr));
