@@ -1,4 +1,4 @@
-![Love-Babbar-Final-450](https://socialify.git.ci/withrvr/Love-Babbar-Final-450/image?description=1&descriptionEditable=450%20DSA%20Questions%20~%20(%20Currently%20Solving%20)&font=Inter&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Light)
+![Love-Babbar-Final-450](https://socialify.git.ci/withrvr/Love-Babbar-Final-450/image?description=1&descriptionEditable=450%20DSA%20Questions%20~%20(%20Currently%20Solving%20)&font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&theme=Auto)
 
 # 📊: Info
 
@@ -18,32 +18,7 @@
 - [My FINAL450 sheet status & numbering order or repo](https://docs.google.com/spreadsheets/d/1-tJhKLvCRnb4KHBgQsDFLWERWeFerVZQaVP1v12COuQ/edit?usp=sharing)
 - [My leetcode Solutions](https://github.com/withrvr/Leetcode)
 
-# 📂: Folder Structure
-
-- All Problems
-  - on which Topics (ie. sub-catagories)
-    - then no of problems assigned (ex. 10 for matrix)
-      - then a.java, b.py, c.cpp, ..... (solution for then / through multiple approach ie. a, b, c) in diff lang if needed
-      - readme.md ... links / contain all that i learned n details of individual file
--
-- Problem
-  - Array
-  - Matrix
-    - 1
-    - 2
-    - 3
-      - a.java
-      - b.py
-      - c.cpp
-      - ...
-      - readme.md
-    - ...
-    - 9
-    - 10
-  - String
-  - Searching & Sorting
-  - .
-  - .
-  - .
-  - Dynamic Programming
-  - Bit Manipulation
+# 🧑‍💻: Developer Guide
+- . . . . . [Dev_Guide.md](./Dev_Guide.md)
+- who want to see / execute code
+- also folder Structure of this repo
