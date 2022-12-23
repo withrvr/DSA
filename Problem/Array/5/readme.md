@@ -1,4 +1,4 @@
-# 📄: (4-Array) -> Move all the negative elements to one side of the array
+# 📄: (5-Array) -> Move all the negative elements to one side of the array
 
 - [a.java](./a.java)
   - track which is the first pos of +ve

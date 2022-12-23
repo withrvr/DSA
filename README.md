@@ -19,6 +19,6 @@
 - [My leetcode Solutions](https://github.com/withrvr/Leetcode)
 
 # 🧑‍💻: Developer Guide
-- . . . . . [Dev_Guide.md](./Dev_Guide.md)
+- . . . . . [Dev_Guide.md](./dev_guide.md)
 - who want to see / execute code
 - also folder Structure of this repo
