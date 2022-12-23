@@ -2,12 +2,19 @@
 
 - [a.java](./a.java)
   - track which is the first pos of +ve
-  - no then replace it with -ve no which is next
-<!--
+  - then swap it with -ve no. which is next
+
 - [b.java](./b.java)
-  - learn
-  - learn
- -->
+  - using left right pointer ... swap
+  - l++ if -ve
+  - r-- if +ve
+  - else swap .. ie. +ve in start ... -ve at end
+
+- [c.java](./c.java)
+  - METHOD:: Dutch National Flag Algorithm for two “colors”
+  - b.java is better ... here unnecessary swapping happens
+
+
 # 🔗: Links
 
 - [GFG Page](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/)
