@@ -5,24 +5,24 @@
 - [Main_GFG_Page](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
 - [Main_Practice_Problem](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1)
 
-# 🔗: Links
-
-<!-- - Leetcode Similar Problem ... Solution :- https://github.com/withrvr/Leetcode
-  - easy :: 0._xyz
-  - Medium :: 53. Maximum Subarray -->
-
 # ✅: Solution
 
 - Logic / Explained in individual file
+-
+- using divide n conquer, dynamic programming ... other possible solution
+  - was unable to do it
+-
 - proper / correct solution
   - [b.java](./b.java)
-    - should start with index 0 only
-    - easy to understand for me
     - Kadane's original/common logic
   - [d.java](./d.java)
 
-<!-- - Other GFG similar problem
-  - asdf
-    - GFG_Page
-    - Practice_Problem
-      - [](./) -->
+# 🔗: Links
+
+- Other GFG similar problem
+  - [Easy, Sub Array with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1)
+    - o1_a.java
+    - can do other logic also ... i was unable to implement
+
+- Leetcode Similar Problem ... Solution :- https://github.com/withrvr/Leetcode
+  - Medium :: 53. Maximum Subarray

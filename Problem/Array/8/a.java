@@ -1,5 +1,4 @@
-// nested loop
-
+// brute force
 // checking for every possible sub array
 // no recommend, just possible solution
 
