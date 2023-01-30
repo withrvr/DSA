@@ -5,7 +5,6 @@
 *.c
 
 # cpp files/folder for testing n running
-main*
 test*
 potd*
 foo*
