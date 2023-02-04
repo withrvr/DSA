@@ -3,6 +3,7 @@
 
 // ***** NOTE: ... but
 // don't work for list of all -ve no
+// or starting with it, some cases
 
 // To Code : 30 min
 // Execute : ? ms

@@ -6,10 +6,8 @@
 
 # cpp files/folder for testing n running
 test*
-potd*
 foo*
 bar*
-template*
 
 # md files
 notes.md
