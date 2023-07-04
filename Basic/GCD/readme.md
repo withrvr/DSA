@@ -1,0 +1,6 @@
+- Euclidean Algorithm
+- https://www.codingninjas.com/studio/problems/gcd_6557
+- https://youtu.be/1xNbjMdbjug?t=3169
+-
+- Main_Modulo_while.java
+  - best / to understand
